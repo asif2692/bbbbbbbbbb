@@ -1,0 +1,50 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.center{
+    margin: auto;
+    padding: 10px;
+    
+}
+
+.color{
+    border-color: red;
+    
+}
+h1{
+    text-align: center;
+}
+img{
+  border-radius: 2px;  
+}
+.bg25{
+    background-image: url(./images/bgs.jpg);
+    background-repeat: no-repeat;
+    height: 60vh;
+     border-radius: 5px;
+ }
+ button
+  {
+
+margin-bottom: 15px;
+    border: 0.016rem solid #767676;
+    border-radius: 0.25rem;}
+
+
+    input[type=location] {
+      
+        background: url(./images/3669413_location_ic_on_icon.svg);
+        color: red;
+        background-repeat: no-repeat;
+        background-position: 10px 50%;
+        background-size: 1rem;
+   
+     
+      }
+
